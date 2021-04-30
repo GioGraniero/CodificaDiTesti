@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE TEI SYSTEM "./ModificatoriDtd.dtd">
+
+<TEI>
+    <header>
+        nota testuale
+    </header>
+    <facsimile></facsimile>
+    <text></text>
+    <text></text>
+    <text></text>
+</TEI>
