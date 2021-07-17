@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Plain Text</title>
+   </titleStmt>
+    <publicationStmt>
+        <p>La storia di Nelson Mandela</p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+        <title level="a">La storia di Nelson Mandela, a oltre un secolo dalla nascita</title>. Di
+        <author>Tommaso Perrone</author>.
+        <publisher>Lifegate</publisher>
+        <date>2018</date>. 
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+    <text>
+        <front>
+            <div type="Introduzione">
+                <p>La biografia dell’uomo che ha sconfitto l’apartheid e le cui 
+                gesta sono state raccontate in così tanti film e altrettante canzoni: Nelson Mandela.</p>
+            </div>
+        </front>
+        <body>
+            <div type="Preambolo">
+                <p>Nelson Mandela è stato il più importante leader sudafricano, 
+                nonché presidente dal 1994 al 1999 e tra i più grandi statisti al mondo. 
+                Nel 1993 ha ricevuto il premio Nobel per la Pace per essere riuscito a porre fine in modo pacifico alla segregazione razziale (apartheid) 
+                dei neri in Sudafrica attuata per circa mezzo secolo dall’etnia bianca al potere e per aver posto le basi della democrazia nel paese.</p>
+            </div>
+            <div type="Biografia - Gioventù">
+                <p>Mandela, il cui nome completo è Nelson Rolihlahla (“attaccabrighe” in lingua xhosa) Mandela, nasce cento anni fa, il 18 luglio 1918 a Mvezi, 
+                un piccolo villaggio della regione del Transkei, nel sudest del Sudafrica. Suo padre era Hendry Mphakanyiswa della tribù Tembu, dove si parla 
+                il dialetto xhosa, un ceppo delle lingue bantu. Mandela studia legge presso l’università di Fort Hare, dalla quale viene espulso nel 1940 per
+                aver guidato una manifestazione studentesca, e in quella di Witwatersrand.</p>
+            </div>
+            <div type="Biografia - Le lotte politiche">
+                <p>Nel 1944 contribuisce alla nascita dell’African national congress (Anc), il più importante partito sudafricano con l’obiettivo 
+                di porre fine alle ingiustizie e alle sofferenze dei neri perpetrate dal Partito nazionale, espressione della popolazione bianca: gli afrikaner. 
+                Le azioni di resistenza contro l’apartheid cominciano nel 
+                1948 e nel 1952 Mandela viene arrestato per la prima volta. Tra il 1956 e il 1961 Mandela è portato a giudizio per tradimento, 
+                accusa da cui viene successivamente assolto. Il 1960 è l’anno del massacro di Sharpeville (21 marzo, oggi giornata dedicata 
+                all’eliminazione della discriminazione razziale) quando 69 persone che stavano manifestando contro la politica segregazionista
+                vengono uccise dalla polizia. A questo episodio tragico fa seguito la decisione del governo di dichiarare l’Anc fuorilegge. 
+                Mandela pensa che sia giunto il momento di creare un’ala militare all’interno del partito. Nel giugno 1961 la proposta di 
+                considerare anche l’eventualità di organizzare azioni violente viene avanzata durante un congresso dell’Anc che, 
+                pur non facendo propria l’iniziativa, stabilisce che coloro che vogliano sostenere le azioni di sabotaggio di Mandela non vengano 
+                fermati. Così il 16 dicembre nasce la Umkhonto we sizwe (“Lancia della nazione”, abbreviato Mk). Nel 1962 Mandela è arrestato per la 
+                seconda volta per aver abbandonato il paese senza autorizzazione e per aver organizzato alcune manifestazioni di protesta.
+                La sentenza lo condanna a cinque anni di reclusione e ai lavori forzati. L’anno successivo altri membri della Mk vengono 
+                arrestati e processati per alto tradimento. Mandela, coinvolto in questo processo con l’accusa di aver complottato per rovesciare 
+                il governo con la forza, viene condannato all’ergastolo il 12 giugno 1964 e rinchiuso nel carcere di massima sicurezza sull’isola 
+                di Robben Island, al largo di Città del Capo. urante i 27 anni passati in carcere, la fama di Mandela cresce in modo costante. 
+                La sua sofferenza silenziosa contribuisce ad aumentare le pressioni sul governo sudafricano e sull’apartheid facendolo diventare
+                un simbolo internazionale di resistenza, un martire della lotta contro il razzismo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
